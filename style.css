@@ -45,6 +45,7 @@ body {
 .menu li {
     float: left;
     width: 25%;
+    position: relative;
     border-left: 1px solid #2c71b8;
 }
 .menu li:last-child {
@@ -122,3 +123,39 @@ button {
     line-height: 20px;
     color: white;
 }
+.menu li:hover > .submenu li {
+    width: 285px;
+    border-left: none;
+    visibility: visible;
+}
+.submenu {
+    position: absolute;
+    visibility: hidden;
+}
+.submenu a {
+    display: block;
+    height: 40px;
+    text-decoration: none;
+    padding-left: 30px;
+    text-align: left;
+    line-height: 40px;
+    font-size: 21px;
+    font-weight: 300;
+    background-color: #2c71b8;
+    color: white;
+}
+.submenu a:hover {
+    background-color: white;
+    color: #2c71b8;
+}
+.drop-down {
+    background-image: url(images/arrow-down2.png);
+    background-repeat: no-repeat;
+    background-position: 92%;
+}
+.drop-down:hover {
+    background-image: url(images/arrow-down.png);
+}
+
+
+
