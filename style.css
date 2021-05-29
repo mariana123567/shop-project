@@ -337,7 +337,7 @@ body {
 .like2 {
     position: absolute;
     margin-left: 129px;
-    margin-top: -100px;
+    margin-top: -98px;
     border: 1px solid #2c71b8;
     padding: 3px;
 }
@@ -393,6 +393,39 @@ body {
 .like4 {
     position: absolute;
     margin-left: 130px;
+    margin-top: -98px;
+    border: 1px solid #2c71b8;
+    padding: 3px;
+}
+.product-image5 {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: absolute;
+    padding: 38px 107px;
+}
+.product5 {
+    color: white;
+    width: 270px;
+    height: 651px;
+    position: relative;
+    margin-left: 111px;
+    margin-top: 29px;
+    border: 1px solid white;  
+}
+.product-image6 {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: absolute;
+    padding: 38px 100px;
+}
+.zoom6 {
+    position: absolute;
+    margin-left: 135px;
+    margin-top: -134px;
+    border: 1px solid #2c71b8;
+    padding: 2px;  
+}
+.like6 {
+    position: absolute;
+    margin-left: 135px;
     margin-top: -98px;
     border: 1px solid #2c71b8;
     padding: 3px;
