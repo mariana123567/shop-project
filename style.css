@@ -181,10 +181,7 @@ body {
     position: relative;
     margin-left: 317px;
     margin-top: 33px;
-    margin-right: -50px;
-    margin-bottom: 29px;
-    border: 1px solid white;
-    
+    border: 1px solid white;  
 }
 .product-image {
     background-color: rgba(255, 255, 255, 0.75);
@@ -272,6 +269,15 @@ body {
     background-repeat: no-repeat;
     background-position: 90% 45%;
 }
+.product1 {
+    color: white;
+    width: 270px;
+    height: 651px;
+    position: relative;
+    margin-left: 214px;
+    margin-top: 33px;
+    border: 1px solid white;  
+}
 .like1 {
     background-color: #2c71b8;
     position: absolute;
@@ -306,6 +312,15 @@ body {
     margin-top: 421px;
     margin-left: 185px;
 }
+.product2 {
+    color: white;
+    width: 270px;
+    height: 651px;
+    position: relative;
+    margin-left: 111px;
+    margin-top: 33px;
+    border: 1px solid white;  
+}
 .product-image2 {
     background-color: rgba(255, 255, 255, 0.75);
     position: absolute;
@@ -326,4 +341,59 @@ body {
     border: 1px solid #2c71b8;
     padding: 3px;
 }
-
+.product3 {
+    color: white;
+    width: 270px;
+    height: 651px;
+    position: relative;
+    margin-left: 317px;
+    margin-top: 29px;
+    border: 1px solid white;  
+}
+.product-image3 {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: absolute;
+    padding: 58px 83px;
+}
+.zoom3 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -114px;
+    border: 1px solid #2c71b8;
+    padding: 2px;  
+}
+.like3 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -77px;
+    border: 1px solid #2c71b8;
+    padding: 3px;
+}
+.product4 {
+    color: white;
+    width: 270px;
+    height: 651px;
+    position: relative;
+    margin-left: 214px;
+    margin-top: 29px;
+    border: 1px solid white;  
+}
+.product-image4 {
+    background-color: rgba(255, 255, 255, 0.75);
+    position: absolute;
+    padding: 38px 103px;
+}
+.zoom4 {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -134px;
+    border: 1px solid #2c71b8;
+    padding: 2px;  
+}
+.like4 {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -98px;
+    border: 1px solid #2c71b8;
+    padding: 3px;
+}
