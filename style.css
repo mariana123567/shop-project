@@ -127,6 +127,7 @@ body {
     width: 285px;
     border-left: none;
     visibility: visible;
+    left: -1px;
 }
 .submenu {
     position: absolute;
@@ -429,4 +430,19 @@ body {
     margin-top: -98px;
     border: 1px solid #2c71b8;
     padding: 3px;
+}
+.sort {
+    width: 270px;
+    display: block;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 100;
+    text-align: left;
+    margin-left: 923px;
+    margin-top: -53px;
+    padding: 9px 135px 9px 18px;
+    background-color: #2d71b8;
+    border: 1px solid white;
 }
