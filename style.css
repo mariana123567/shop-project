@@ -180,13 +180,12 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 317px;
     margin-top: 33px;
     border: 1px solid white;  
 }
 .product-image {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 43px 83px 45px;
 }
 .zoom {
@@ -207,14 +206,14 @@ body {
     font-size: 30px;
     font-weight: 600;
     position: absolute;
-    margin-top: 188px;
+    margin-top: 14px;
     margin-left: 10px;
 }
 .product-description {
     font-size: 21px;
     font-weight: 100;
     position: absolute;
-    margin-top: 230px;
+    margin-top: 56px;
     margin-left: 12px;
     padding-right: 10px;
     line-height: 1.1;
@@ -223,7 +222,7 @@ body {
     font-size: 20px;
     font-weight: 300;
     position: absolute;
-    margin-top: 302px;
+    margin-top: 141px;
     margin-left: 12px;
     line-height: 1.5;
 }
@@ -235,19 +234,19 @@ body {
     position: absolute;
     font-size: 45px;
     font-weight: 600;
-    margin-top: 420px;
+    margin-top: 257px;
     margin-left: 60px;
 }
 .coints {
     position: absolute;
     font-size: 26px;
     font-weight: 600;
-    margin-top: 421px;
+    margin-top: 260px;
     margin-left: 173px;
 }
 .details {
     position: absolute;
-    margin-top: 488px;
+    margin-top: 326px;
     margin-left: 26px;
     color: white;
     background-color: #2d71b8;
@@ -258,7 +257,7 @@ body {
 }
 .add-to-cart {
     position: absolute;
-    margin-top: 556px;
+    margin-top: 391px;
     margin-left: 26px;
     color: white;
     background-color: #568dc6;
@@ -275,7 +274,6 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 214px;
     margin-top: 33px;
     border: 1px solid white;  
 }
@@ -296,21 +294,21 @@ body {
 }
 .product-image1 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 47px 83px;
 }
 .product-price1 {
     position: absolute;
     font-size: 45px;
     font-weight: 600;
-    margin-top: 420px;
+    margin-top: 257px;
     margin-left: 48px;
 }
 .coints-1 {
     position: absolute;
     font-size: 26px;
     font-weight: 600;
-    margin-top: 421px;
+    margin-top: 260px;
     margin-left: 185px;
 }
 .product2 {
@@ -318,13 +316,12 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 111px;
     margin-top: 33px;
     border: 1px solid white;  
 }
 .product-image2 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 38px 106px;
 }
 .zoom2 {
@@ -347,13 +344,12 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 317px;
     margin-top: 29px;
     border: 1px solid white;  
 }
 .product-image3 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 58px 83px;
 }
 .zoom3 {
@@ -375,13 +371,12 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 214px;
     margin-top: 29px;
     border: 1px solid white;  
 }
 .product-image4 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 38px 103px;
 }
 .zoom4 {
@@ -400,7 +395,7 @@ body {
 }
 .product-image5 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 38px 107px;
 }
 .product5 {
@@ -408,13 +403,12 @@ body {
     width: 270px;
     height: 651px;
     position: relative;
-    margin-left: 111px;
     margin-top: 29px;
     border: 1px solid white;  
 }
 .product-image6 {
     background-color: rgba(255, 255, 255, 0.75);
-    position: absolute;
+    position: relative;
     padding: 38px 100px;
 }
 .zoom6 {
@@ -435,14 +429,13 @@ body {
     width: 270px;
     display: block;
     color: white;
-    position: absolute;
     text-decoration: none;
     font-size: 21px;
     font-weight: 100;
+    margin-top: 462px;
     text-align: left;
-    margin-left: 923px;
-    margin-top: -53px;
     padding: 9px 135px 9px 18px;
     background-color: #2d71b8;
     border: 1px solid white;
+    outline: none;
 }
