@@ -224,7 +224,7 @@ body {
 }
 .product-body {
     width: 268px;
-    height: 468px;
+    height: 668px;
 }
 .product-title {
     font-size: 30px;
@@ -563,13 +563,21 @@ label:before {
     border: 1px solid white;
     margin-top: 25px;
     margin-left: 30px;
+    margin-right: 9px;
+    float: left;
+}
+.row1 ::after {
+    content: "";
+    clear: both;
+    display: block;
 }
 .subfilter {
     color: white;
     font-size: 18px;
     font-weight: 300;
-    margin-top: -14px;
-    margin-left: 51px;
+    position: relative;
+    margin-top: 21px;
+    margin-left: 20px;
 }
 .filtername2 {
     color: white;
