@@ -533,3 +533,70 @@ body {
     border: 1px solid white;
     outline: none;
 }
+.filter {
+    height: 841px;
+    width: 269px;
+    background-color: rgba(255, 255, 255, 0.25);
+    border-right: 1px solid white;
+    margin-top: 400px;
+}
+.filtername {
+    color: white;
+    padding-top: 31px;
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+}
+input[type="checkbox"]:checked + label::before {
+    background-color: white;
+}
+input[type="checkbox"] {
+    display: none;
+}
+label:before {
+    content: "";
+    cursor: pointer;
+    display: block;
+    width: 8px;
+    height: 8px;
+    border: 1px solid white;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.subfilter {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: -14px;
+    margin-left: 51px;
+}
+.filtername2 {
+    color: white;
+    padding-top: 56px;
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+}
+.moreoptions {
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-top: 27px;
+    padding-left: 36px;
+}
+.submit {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+    background-color: #2d71b8;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid white;
+    padding: 16px 65px;
+}
+.submit:hover {
+    background-color: #568dc6;
+}
